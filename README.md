@@ -1,6 +1,11 @@
 # Canin
 My Flash virtual pet game
 
+## How to play
+
+Use chrome with ruffle extension
+https://chrome.google.com/webstore/detail/ruffle/donbcfbmhbcapadipfkeojnmajbakjdc
+
 
 ## Keyboard Controls
 
